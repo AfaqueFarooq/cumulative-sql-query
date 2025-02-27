@@ -1,3 +1,9 @@
+# Cumulative SQL Query
+
+This repository contains a powerful cumulative SQL query that incrementally builds up player history and allows for historical analysis. The query is designed to work with a `players` table, which stores player statistics year by year.
+
+## Table Structure
+
 The `players` table has the following structure:
 
 - `player_name`: Name of the player.
