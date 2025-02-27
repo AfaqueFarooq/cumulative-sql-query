@@ -20,10 +20,10 @@ The `players` table has the following structure:
 
 ## SQL Files
 
-1. **`create_tables.sql`**  
+1. **`ddl.sql`**  
    Contains the SQL code for creating the `season_stats` type, `scoring_class` enum, and `players` table.
 
-2. **`insert_data.sql`**  
+2. **`cumulative_table.sql`**  
    Contains the cumulative SQL query that inserts data into the `players` table year by year.
 
 3. **`analytics.sql`**  
